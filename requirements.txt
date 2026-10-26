@@ -1,0 +1,8 @@
+# Core libraries for the Fashion-MNIST CNN project
+# Colab already includes PyTorch in most runtimes; keep its CUDA-compatible build.
+torch
+torchvision
+
+# Evaluation metrics and plots
+scikit-learn
+matplotlib
