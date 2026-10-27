@@ -53,19 +53,6 @@ Add a short analysis of the learning curves and at least one concrete test-set f
 
 The notebook and `src/model.py` should be committed to this repository. Do not commit dataset files, API keys, or other secrets. A trained checkpoint may be included as an optional demo artifact, but it does not replace the training code.
 
-## Repository layout
-
-```text
-fashion-mnist-cnn-capstone/
-├── README.md
-├── requirements.txt
-├── src/
-│   └── model.py
-├── notebooks/
-│   └── fashion_mnist_cnn.ipynb
-└── reports/
-    └── figures/
-```
 
 ## Dependencies
 
